@@ -69,9 +69,9 @@ _Source code for commercial projects is proprietary and not publicly available. 
 
 ## Technical Stack
 
-**Architecture:** Distributed systems, concurrency control, idempotency, event-driven workflows
-**Backend:** TypeScript, Node.js, NestJS
-**Data:** PostgreSQL, MongoDB, Redis
-**Messaging:** Redpanda (Kafka), BullMQ
-**Infrastructure & IAM:** Linux, Docker, Ansible, GitHub Actions, Nginx, Keycloak, S3
-**Observability:** Prometheus, Grafana, Pino
+- **Architecture:** Distributed systems, concurrency control, idempotency, event-driven workflows
+- **Backend:** TypeScript, Node.js, NestJS
+- **Data:** PostgreSQL, MongoDB, Redis
+- **Messaging:** Redpanda (Kafka), BullMQ
+- **Infrastructure & IAM:** Linux, Docker, Ansible, GitHub Actions, Nginx, Keycloak, S3
+- **Observability:** Prometheus, Grafana, Pino
